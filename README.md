@@ -1,2 +1,2 @@
 # BTCanalisis
-Using Tensorflow to predict btc prices
+Using Tensorflow to predict btc price
